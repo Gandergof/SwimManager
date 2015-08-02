@@ -3,6 +3,6 @@
     <title>Proyecto</title>
   </head>
   <body>
-    Welcome to su madre
+    Pagina de prueba Swim Manager
   </body>
 </html>
